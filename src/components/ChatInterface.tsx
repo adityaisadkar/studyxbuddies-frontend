@@ -37,7 +37,7 @@ const ChatInterface = ({ userName }: ChatInterfaceProps) => {
     setIsLoading(true);
 
     try {
-      const response = await fetch("https://studyxbuddies-backend.onrender.com", {
+      const response = await fetch("https://studyxbuddies-backend.onrender.com/chat", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({

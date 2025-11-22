@@ -1,7 +1,6 @@
-# Welcome to your Lovable project
-
 ## Project info
 
+<<<<<<< HEAD
 **URL**: 
 
 ## How can I edit this code?
@@ -14,6 +13,8 @@ There are several ways of editing your application.
 If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected.
 
 The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+=======
+>>>>>>> 489ac37b128544079a37c68c7bf54ece6781db59
 
 Follow these steps:
 
@@ -55,7 +56,11 @@ This project is built with:
 - shadcn-ui
 - Tailwind CSS
 
+<<<<<<< HEAD
 
 Yes, you can!
 
 To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
+=======
+Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+>>>>>>> 489ac37b128544079a37c68c7bf54ece6781db59
